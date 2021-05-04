@@ -1,2 +1,2 @@
 # Java
-Container de projetos com programação orientada a objetos na linguagem Java.
+Container de projetos com orientação a objetos na linguagem Java.
